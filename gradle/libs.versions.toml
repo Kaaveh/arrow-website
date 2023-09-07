@@ -4,7 +4,7 @@ kotest = "5.7.2"
 kotlin = "1.8.22"
 knit = "0.4.0"
 arrow = "1.2.1"
-ksp = "1.8.22-1.0.11"
+ksp = "1.9.10-1.0.13"
 suspendapp = "0.4.0"
 kotlinKafka = "0.3.1"
 
